@@ -5,7 +5,7 @@ const User = require('./models/User');
 app.use(express.json());
 
 app.get("/", async (req, res) => {
-    res.send("Página inicial - Celke");
+    res.send("Página inicial");
 });
 
 app.post("/cadastrar", async (req, res) => {
