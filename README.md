@@ -30,3 +30,26 @@ Projeto da matéria de Códigos de Alta Performance Web. Criação de um site de
 
 ## :dart: Status do projeto
 * Em andamento.
+
+## :hammer_and_wrench: Estrutura de Dados
+- Tatuadores
+  - Descrição dos tatuadores.
+
+```s
+    Tatuador {
+        tatuador_name: "Nome do tatuador"
+        tatuador_formação: "Onde/como se formou"
+        tatuador_especialidade: "Tipo de tatuagem que é especialista"
+    }
+```
+
+- Tatuagem
+  - Descrição das tatuagens.
+
+```s
+    Tatuagem {
+        tatuagem_tipo: "Tipo de tatuagem"
+        tatuagem_tamanho: "Tamanho da tatuagem que o cliente quer"
+        tatuagem_traço: "Escolher entre traço fino ou grosso"
+    }
+```
