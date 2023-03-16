@@ -28,9 +28,6 @@ Projeto da matéria de Códigos de Alta Performance Web. Criação de um site de
   </tr>
 </table>
 
-## :dart: Status do projeto
-* Em andamento.
-
 ## :hammer_and_wrench: Estrutura de Dados
 - Tatuadores
   - Descrição dos tatuadores.
@@ -53,3 +50,6 @@ Projeto da matéria de Códigos de Alta Performance Web. Criação de um site de
         tatuagem_traço: "Escolher entre traço fino ou grosso"
     }
 ```
+
+## :dart: Status do projeto
+* Em andamento.
