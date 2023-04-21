@@ -5,7 +5,7 @@ const endpointsFiles = ['./server.js'];
 const docs = {
     info: {
         version: "1.0.0",
-        title: "GreenWallet API",
+        title: "API Tatuagem",
         description: "API Studio Tatto"
     },
     host: "localhost:8000",
